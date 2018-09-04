@@ -11,7 +11,7 @@ public class Main {
 		System.out.println("Hola mundo!");
 		System.out.print("Tu nombre: ");
 		String nombre = entrada.nextLine();
-		System.out.println("Que te den, " + nombre + "!!");
+		System.out.println("fuck you, " + nombre + "!!");
 		
 		entrada.close();
 	}
